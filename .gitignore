@@ -13,4 +13,8 @@ dist/
 build/
 
 output/*
+!output/.gitkeep
+
 videos/*
+!videos/.gitkeep
+
